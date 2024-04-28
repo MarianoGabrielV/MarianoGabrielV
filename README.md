@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Mariano Gabriel Vergniaud</h1>
+<h1 align="center">Mariano Gabriel Vergniaud</h1>
 <h3 align="center">Hola a TODXS... Soy un programador de Buenos Aires, Argentina. Me apasiona la programacion tanto como mis hobbies los cuales entre ellos estan el deporte y la reparacion de bicicletas.</h3>
 
 - 📫 How to reach me **mariano.unla@gmail.com**
